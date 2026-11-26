@@ -13,3 +13,6 @@
 | [《龍珠鬥士Z》的打光、動畫與鏡頭](Dragon-Ball-FighterZ-Graphics-Explained/) | [Dragon Ball FighterZ "Good Graphics" Explained](https://www.youtube.com/watch?v=UA1rR72ivXg) |
 | [《聖火降魔錄 Engage》視覺與動畫](Fire-Emblem-Engage-Visual-Quality/) | [Fire Emblem Engage Set a Visual Quality Standard](https://www.youtube.com/watch?v=LX2ruU1WXSA) |
 | [《碧藍幻想 Relink》插畫式角色建模](Granblue-Fantasy-Relink-Character-Modeling/) | [『GRANBLUE FANTASY: Relink』イラストを再現する為のキャラクターモデル制作事例](https://www.youtube.com/watch?v=rrDDT2nKseg) |
+| [二次元 3D 渲染的四種修正方法](Anime-3D-Rendering-Four-Tricks/) | [二次元3D渲染的4种作弊方法](https://www.bilibili.com/video/BV1w7tm65EVk/) |
+| [三渲二基礎：描邊與卡通著色](NPR-Toon-Rendering-Fundamentals/) | [一个视频彻底了解三渲二！NPR/卡通渲染的基本原理 构成篇](https://www.bilibili.com/video/BV1eY411b75h/) |
+| [《終末地》角色渲染：社群著色器拆解](Arknights-Endfield-Character-Rendering-Opus-Analysis/) | [Opus5.5告诉你终末地是怎么渲染角色的](https://www.bilibili.com/video/BV1zhJC6zELX/) |
