@@ -10,3 +10,6 @@
 | [《罪惡裝備 Xrd》與《龍珠鬥士Z》的動畫節奏](Guilty-Gear-Xrd-Dragon-Ball-FighterZ-Animation/) | [The Animation of Guilty Gear Xrd & Dragon Ball FighterZ](https://www.youtube.com/watch?v=kZsboyfs-L4) |
 | [《明日方舟：終末地》渲染分析](Arknights-Endfield-Rendering-Analysis/) | [终末地有多少个人在做？终末地评测：渲染与商业化](https://www.bilibili.com/video/BV1de411f7qe/) |
 | [《原神》PS4 渲染管線](Genshin-Impact-PS4-Rendering/) | [유나이트 서울 2020 - 원신 콘솔 플랫폼 개발 경험 및 렌더링 파이프라인 기술 소개 Track3-1](https://www.youtube.com/watch?v=00QugD5u1CU) |
+| [《龍珠鬥士Z》的打光、動畫與鏡頭](Dragon-Ball-FighterZ-Graphics-Explained/) | [Dragon Ball FighterZ "Good Graphics" Explained](https://www.youtube.com/watch?v=UA1rR72ivXg) |
+| [《聖火降魔錄 Engage》視覺與動畫](Fire-Emblem-Engage-Visual-Quality/) | [Fire Emblem Engage Set a Visual Quality Standard](https://www.youtube.com/watch?v=LX2ruU1WXSA) |
+| [《碧藍幻想 Relink》插畫式角色建模](Granblue-Fantasy-Relink-Character-Modeling/) | [『GRANBLUE FANTASY: Relink』イラストを再現する為のキャラクターモデル制作事例](https://www.youtube.com/watch?v=rrDDT2nKseg) |
