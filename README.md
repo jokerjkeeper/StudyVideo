@@ -16,3 +16,6 @@
 | [二次元 3D 渲染的四種修正方法](Anime-3D-Rendering-Four-Tricks/) | [二次元3D渲染的4种作弊方法](https://www.bilibili.com/video/BV1w7tm65EVk/) |
 | [三渲二基礎：描邊與卡通著色](NPR-Toon-Rendering-Fundamentals/) | [一个视频彻底了解三渲二！NPR/卡通渲染的基本原理 构成篇](https://www.bilibili.com/video/BV1eY411b75h/) |
 | [《終末地》角色渲染：社群著色器拆解](Arknights-Endfield-Character-Rendering-Opus-Analysis/) | [Opus5.5告诉你终末地是怎么渲染角色的](https://www.bilibili.com/video/BV1zhJC6zELX/) |
+| [《龍珠鬥士Z》必殺技演出觀察](Dragon-Ball-FighterZ-Ultimate-Attacks/) | [Dragon Ball FighterZ - All Ultimate Attacks &#124; 2018 - 2026 (4K 60FPS)](https://www.youtube.com/watch?v=KPTnvaTNQSE) |
+| [Arc System Works 的逐幀 3D 動畫](Arc-System-Works-Hand-Crafted-3D-Animation/) | [日本最强3渲2游戏公司？逐帧制作3D堪比手绘！制作过《龙珠斗士Z》，这到底什么神仙公司？！](https://www.bilibili.com/video/BV1P4411M7k1/) |
+| [《終末地》風格角色渲染 UE5 課程](Arknights-Endfield-Character-Rendering-UE5/) | [【补档】【虚幻5 开源课程】如何制作终末地的角色渲染](https://www.bilibili.com/video/BV17fBFB4EFX/) |
