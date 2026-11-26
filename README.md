@@ -1,6 +1,8 @@
-# 遊戲渲染技術影片筆記
+# 遊戲渲染技術筆記
 
-每份筆記都附原始影片標題、來源和可點擊的時間碼，並說明技術解決的畫面或效能問題。
+每份筆記都附原始標題與來源，並說明技術解決的畫面或效能問題。影片筆記另附可點擊的時間碼。
+
+## 影片筆記
 
 | 技術筆記 | 原始影片 |
 | --- | --- |
@@ -19,3 +21,11 @@
 | [《龍珠鬥士Z》必殺技演出觀察](Dragon-Ball-FighterZ-Ultimate-Attacks/) | [Dragon Ball FighterZ - All Ultimate Attacks &#124; 2018 - 2026 (4K 60FPS)](https://www.youtube.com/watch?v=KPTnvaTNQSE) |
 | [Arc System Works 的逐幀 3D 動畫](Arc-System-Works-Hand-Crafted-3D-Animation/) | [日本最强3渲2游戏公司？逐帧制作3D堪比手绘！制作过《龙珠斗士Z》，这到底什么神仙公司？！](https://www.bilibili.com/video/BV1P4411M7k1/) |
 | [《終末地》風格角色渲染 UE5 課程](Arknights-Endfield-Character-Rendering-UE5/) | [【补档】【虚幻5 开源课程】如何制作终末地的角色渲染](https://www.bilibili.com/video/BV17fBFB4EFX/) |
+
+## 文章筆記
+
+| 技術筆記 | 原始文章 |
+| --- | --- |
+| [《聖火降魔錄 Engage》角色與場景渲染](Fire-Emblem-Engage-CGWorld-Character-Look/) | ["実在感"のあるルックでキャラクターを魅力的に見せる『ファイアーエムブレム エンゲージ』](https://cgworld.jp/article/202311-cgw303-fee.html) |
+| [網易 TA 的卡通渲染技巧](NetEase-Toon-Rendering-Tricks-Unity/) | [网易TA大咖带你走近卡通渲染，讲解关于Trick的两三事](https://developer.unity.cn/projects/6180d69bedbc2a06d1042cf3) |
+| [米哈遊行動端卡通渲染](MiHoYo-Mobile-Toon-Rendering-Optimization/) | [米哈游技术总监首次分享：移动端高品质卡通渲染的实现与优化方案](https://zhuanlan.zhihu.com/p/37001473) |
