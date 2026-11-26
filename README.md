@@ -29,3 +29,6 @@
 | [《聖火降魔錄 Engage》角色與場景渲染](Fire-Emblem-Engage-CGWorld-Character-Look/) | ["実在感"のあるルックでキャラクターを魅力的に見せる『ファイアーエムブレム エンゲージ』](https://cgworld.jp/article/202311-cgw303-fee.html) |
 | [網易 TA 的卡通渲染技巧](NetEase-Toon-Rendering-Tricks-Unity/) | [网易TA大咖带你走近卡通渲染，讲解关于Trick的两三事](https://developer.unity.cn/projects/6180d69bedbc2a06d1042cf3) |
 | [米哈遊行動端卡通渲染](MiHoYo-Mobile-Toon-Rendering-Optimization/) | [米哈游技术总监首次分享：移动端高品质卡通渲染的实现与优化方案](https://zhuanlan.zhihu.com/p/37001473) |
+| [Unity 風格化 Shader](Unity-Stylized-Rendering-Shader-Eric-Hu/) | [在Unity實現風格化渲染的Shader](https://medium.com/@eric.hu/%E5%9C%A8unity%E5%AF%A6%E7%8F%BE%E9%A2%A8%E6%A0%BC%E5%8C%96%E6%B8%B2%E6%9F%93%E7%9A%84shader-c5a376ab8f85) |
+| [《罪惡裝備 Xrd》卡通渲染](Anime-Game-Visual-Techniques-CSDN/) | [罪恶装备Xrd卡通渲染](https://blog.csdn.net/Garuda/article/details/79511538) |
+| [《原神》非官方渲染分析](Genshin-Impact-Rendering-Effects-GameRes/) | [技术分享 &#124;《原神》部分渲染效果分析（非官方）](https://www.gameres.com/874408.html) |
