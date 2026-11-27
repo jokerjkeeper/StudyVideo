@@ -35,7 +35,8 @@
 | [《原神》非官方渲染分析](Genshin-Impact-Rendering-Effects-GameRes/) | [技术分享 &#124;《原神》部分渲染效果分析（非官方）](https://www.gameres.com/874408.html) |
 | [《終末地》角色著色 Unity URP 復刻](Arknights-Endfield-Character-Rendering-Unity-URP/) | [〖unity urp〗从零模仿复刻实现自己的终末地人物卡通渲染](https://zhuanlan.zhihu.com/p/2028819446546932894) |
 | [《原神》開發與渲染專題](Genshin-Impact-Development-INDIE-GUIDER/) | [〖開發經驗分享〗專題系列－《原神》開發及其渲染技術](https://indie-guider.games/article/DevStudy-Genshin-Impact) |
-| [網易遊戲描邊](Game-Outline-Techniques-NetEase/) | [描边技术总览和常见商业游戏中的描边方案（上）](https://api.academy.163.com/course/careerArticle?course=769) |
+| [網易遊戲描邊（上）](Game-Outline-Techniques-NetEase/) | [描边技术总览和常见商业游戏中的描边方案（上）](https://api.academy.163.com/course/careerArticle?course=769) |
+| [網易遊戲描邊（下）](Game-Outline-Techniques-NetEase-Part-2/) | [描边技术总览和常见商业游戏中的描边方案（下）](https://api.academy.163.com/course/careerArticle?course=770) |
 
 ## 工具與程式庫筆記
 
