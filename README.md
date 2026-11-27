@@ -32,3 +32,15 @@
 | [Unity 風格化 Shader](Unity-Stylized-Rendering-Shader-Eric-Hu/) | [在Unity實現風格化渲染的Shader](https://medium.com/@eric.hu/%E5%9C%A8unity%E5%AF%A6%E7%8F%BE%E9%A2%A8%E6%A0%BC%E5%8C%96%E6%B8%B2%E6%9F%93%E7%9A%84shader-c5a376ab8f85) |
 | [《罪惡裝備 Xrd》卡通渲染](Anime-Game-Visual-Techniques-CSDN/) | [罪恶装备Xrd卡通渲染](https://blog.csdn.net/Garuda/article/details/79511538) |
 | [《原神》非官方渲染分析](Genshin-Impact-Rendering-Effects-GameRes/) | [技术分享 &#124;《原神》部分渲染效果分析（非官方）](https://www.gameres.com/874408.html) |
+| [《終末地》角色著色 Unity URP 復刻](Arknights-Endfield-Character-Rendering-Unity-URP/) | [〖unity urp〗从零模仿复刻实现自己的终末地人物卡通渲染](https://zhuanlan.zhihu.com/p/2028819446546932894) |
+| [《原神》開發與渲染專題](Genshin-Impact-Development-INDIE-GUIDER/) | [〖開發經驗分享〗專題系列－《原神》開發及其渲染技術](https://indie-guider.games/article/DevStudy-Genshin-Impact) |
+| [網易遊戲描邊](Game-Outline-Techniques-NetEase/)（待核對原文） | [描边技术总览和常见商业游戏中的描边方案（上）](https://api.academy.163.com/course/careerArticle?course=769) |
+
+## 工具與程式庫筆記
+
+| 技術筆記 | 原始來源 |
+| --- | --- |
+| [Blender 程序化動漫特效](Noggi-Procedural-Anime-VFX-Toolkit/) | [The Procedural 3D Anime VFX Toolkit](https://noggi3d.gumroad.com/l/anime_vfx) |
+| [Blender 三渲二起始工具包](Noggi-3D-Anime-Starter-Kit/) | [Noggi's 3D Anime Starter Kit](https://noggi3d.gumroad.com/l/starter-kit) |
+| [Blender 模型直繪與材質貼圖](Noggi-2D-Artists-3D-Kit/) | [The 2D Artist's 3D Kit](https://noggi3d.gumroad.com/l/2dkit) |
+| [Unity Toon Shader 官方材質筆記](Unity-Toon-Shader/) | [Unity Toon Shader](https://github.com/Unity-Technologies/com.unity.toonshader) |
