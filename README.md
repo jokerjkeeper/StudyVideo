@@ -21,6 +21,7 @@
 | [《龍珠鬥士Z》必殺技演出觀察](Dragon-Ball-FighterZ-Ultimate-Attacks/) | [Dragon Ball FighterZ - All Ultimate Attacks &#124; 2018 - 2026 (4K 60FPS)](https://www.youtube.com/watch?v=KPTnvaTNQSE) |
 | [Arc System Works 的逐幀 3D 動畫](Arc-System-Works-Hand-Crafted-3D-Animation/) | [日本最强3渲2游戏公司？逐帧制作3D堪比手绘！制作过《龙珠斗士Z》，这到底什么神仙公司？！](https://www.bilibili.com/video/BV1P4411M7k1/) |
 | [《終末地》風格角色渲染 UE5 課程](Arknights-Endfield-Character-Rendering-UE5/) | [【补档】【虚幻5 开源课程】如何制作终末地的角色渲染](https://www.bilibili.com/video/BV17fBFB4EFX/) |
+| [Unity URP 提升遊戲畫面](Unity-URP-Evolving-Game-Graphics/) | [\[Unity 教程\]- （中文字幕）使用URP提升游戏画面效果](https://www.bilibili.com/video/BV1fK4y1a78s/) |
 
 ## 文章筆記
 
@@ -34,7 +35,7 @@
 | [《原神》非官方渲染分析](Genshin-Impact-Rendering-Effects-GameRes/) | [技术分享 &#124;《原神》部分渲染效果分析（非官方）](https://www.gameres.com/874408.html) |
 | [《終末地》角色著色 Unity URP 復刻](Arknights-Endfield-Character-Rendering-Unity-URP/) | [〖unity urp〗从零模仿复刻实现自己的终末地人物卡通渲染](https://zhuanlan.zhihu.com/p/2028819446546932894) |
 | [《原神》開發與渲染專題](Genshin-Impact-Development-INDIE-GUIDER/) | [〖開發經驗分享〗專題系列－《原神》開發及其渲染技術](https://indie-guider.games/article/DevStudy-Genshin-Impact) |
-| [網易遊戲描邊](Game-Outline-Techniques-NetEase/)（待核對原文） | [描边技术总览和常见商业游戏中的描边方案（上）](https://api.academy.163.com/course/careerArticle?course=769) |
+| [網易遊戲描邊](Game-Outline-Techniques-NetEase/) | [描边技术总览和常见商业游戏中的描边方案（上）](https://api.academy.163.com/course/careerArticle?course=769) |
 
 ## 工具與程式庫筆記
 
